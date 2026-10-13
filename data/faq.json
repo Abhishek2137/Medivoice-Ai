@@ -1,0 +1,14 @@
+[
+	{
+		"question": "How do I book an appointment?",
+		"answer": "Tell the assistant your name, specialty, preferred date, and time. Choose an available doctor and confirm the appointment before it is booked."
+	},
+	{
+		"question": "Can I choose a specific doctor?",
+		"answer": "Yes. Ask for a doctor by name, or select a doctor from the available appointment suggestions."
+	},
+	{
+		"question": "Is availability guaranteed?",
+		"answer": "Availability is checked against the booking database immediately before confirmation."
+	}
+]

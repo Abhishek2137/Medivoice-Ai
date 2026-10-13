@@ -1,0 +1,12 @@
+[
+	{
+		"name": "City Care Hospital",
+		"services": ["outpatient consultations", "diagnostic services", "specialist care"],
+		"location": "Central district"
+	},
+	{
+		"name": "Wellness Hospital",
+		"services": ["specialist consultations", "preventive care", "follow-up care"],
+		"location": "North district"
+	}
+]

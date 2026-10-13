@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Dr. Amit Sharma",
+		"specialization": "Dermatology",
+		"hospital": "City Care Hospital",
+		"experience": 12,
+		"languages": ["English", "Hindi"]
+	},
+	{
+		"name": "Dr. Priya Patil",
+		"specialization": "Cardiology",
+		"hospital": "Wellness Hospital",
+		"experience": 10,
+		"languages": ["English", "Hindi", "Marathi"]
+	},
+	{
+		"name": "Dr. Neha Shah",
+		"specialization": "Orthopedics",
+		"hospital": "City Care Hospital",
+		"experience": 8,
+		"languages": ["English", "Hindi"]
+	}
+]

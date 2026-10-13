@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Dermatology",
+		"description": "Diagnosis and treatment of skin, hair, and nail conditions.",
+		"common_symptoms": ["rash", "itching", "acne", "skin irritation"]
+	},
+	{
+		"name": "Cardiology",
+		"description": "Care for heart and blood vessel conditions.",
+		"common_symptoms": ["chest discomfort", "palpitations", "shortness of breath"]
+	},
+	{
+		"name": "Orthopedics",
+		"description": "Treatment for bones, joints, muscles, and movement-related injuries.",
+		"common_symptoms": ["joint pain", "back pain", "sports injury"]
+	}
+]
